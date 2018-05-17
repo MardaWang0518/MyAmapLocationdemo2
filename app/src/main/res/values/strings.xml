@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLocationDemo2</string>
+    <string name="location_description_title">你能允许定位权限吗?</string>
+    <string name="location_description_why_we_need_the_permission">你好,定位功能需要获取位置权限。你能允许吗?</string>
+</resources>
